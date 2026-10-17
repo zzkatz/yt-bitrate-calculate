@@ -1,6 +1,7 @@
 import sys
 
 """
+Youtube recommendations on bitrate: 
 1080p (Full HD)	24, 25, 30	8 Mbps 8000
 1080p (Full HD)	48, 50, 60	12 Mbps 12000
 1440p (2K)	24, 25, 30	16 Mbps 16000
